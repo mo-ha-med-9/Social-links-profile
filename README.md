@@ -22,7 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-*(Add a screenshot of your finished project here if desired)*
+## Screenshot
+
+![App Screenshot](./design/design.png)
 
 ## My Process
 
