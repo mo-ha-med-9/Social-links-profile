@@ -34,7 +34,6 @@ Users should be able to:
 - CSS custom properties (Variables)
 - Flexbox for layout alignment
 - Mobile-first approach & custom media queries
-- Custom local fonts (Inter)
 
 ### What I Learned
 
